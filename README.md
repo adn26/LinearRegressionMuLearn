@@ -11,7 +11,7 @@ This project predicts real estate prices using Linear Regression based on featur
 ## Features
 - Data preprocessing: handling missing values, feature scaling (if needed).
 - Linear Regression model to predict property prices.
-- Model evaluation using metrics like RMSE, MAE, and R² score.
+- Model evaluation using metrics like MSE and R² score.
 
 ## Results
 - Provides insights into property pricing based on input features.
